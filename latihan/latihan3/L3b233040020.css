@@ -5,6 +5,7 @@ body {
 .link {
   color: white;
   font-family: Georgia, "Times New Roman", Times, serif;
+  font-variant: small-caps;
 }
 
 h1 {
@@ -15,7 +16,7 @@ h1 {
 
 h4 {
   text-align: right;
-  font-weight: bold;
+  font-family: comic sans MS;
 }
 
 .p1 {
@@ -24,5 +25,5 @@ h4 {
 }
 
 .p2 {
-  text-align: center;
+  text-align: right;
 }
