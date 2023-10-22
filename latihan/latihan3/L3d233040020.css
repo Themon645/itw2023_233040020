@@ -1,0 +1,49 @@
+body {
+  background-image: url(../latihan3/img/background.png);
+  background-repeat: repeat-x;
+  font-family: comic;
+}
+.link a {
+  color: red;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-variant: small-caps;
+}
+
+.link a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  color: darkblue;
+  font-family: comic sans MS;
+  font-size: 60px;
+}
+
+h4 {
+  text-align: center;
+  font-family: comic sans MS;
+}
+
+h3 {
+  text-align: center;
+}
+
+.p1 {
+  text-align: center;
+  color: orange;
+}
+
+.p2 {
+  text-align: center;
+}
+
+.p2 a {
+  text-decoration: none;}
+
+.p2 a:hover {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+}

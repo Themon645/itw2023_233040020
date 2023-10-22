@@ -1,11 +1,17 @@
 body {
   background-color: aqua;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: comic;
 }
-.link {
+.link a {
+  text-decoration: none;
   color: white;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-variant: small-caps;
+}
+
+.link a:hover {
+  text-decoration: none;
+  color: red;
 }
 
 h1 {
@@ -16,6 +22,7 @@ h1 {
 
 h4 {
   text-align: right;
+  font-family: comic sans MS;
 }
 
 .p1 {
@@ -25,4 +32,13 @@ h4 {
 
 .p2 {
   text-align: right;
+}
+
+.p2 a {
+  text-decoration: none;}
+
+.p2 a:hover {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
 }
