@@ -49,6 +49,7 @@ body {
   font: 16px/28px arial, sans-serif;
   background-color: #eaeaea;
   color: #333;
+  background-image: url(../latihan3/img/moroccan-flower.png);
 }
 .container {
   width: 800px;
@@ -58,6 +59,7 @@ body {
 
 .header {
   padding: 20px;
+  padding-bottom: 10px;
 }
 
 .header .judul {
@@ -86,5 +88,42 @@ body {
   height: 250px;
   background-image: url(../latihan3/img/hero.png) ;
   background-size: cover ;
-  background-position: 0 -150px;
+  background-position: 0 -200px;
+  border-bottom: 5px solid skyblue;
+  border-top: 5px solid salmon;
+}
+
+.content {
+  padding: 20px;
+}
+
+.content h2 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.content .penulis {
+  font-size: 11px;
+  margin-top: 5px;
+}
+
+.content .penulis a {
+  color: salmon;
+  text-decoration: none;
+}
+
+.content p {
+  margin-bottom: 20px;
+  font-size: 14px;
+}
+
+.footer {
+  background-color: #333;
+  padding: 10px;
+}
+
+.footer .copy {
+  color: #eaeaea;
+  text-align: center;
+  font-size: 12px;
 }
