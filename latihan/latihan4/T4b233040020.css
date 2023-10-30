@@ -212,6 +212,15 @@ body {
   font-weight: bold;
 }
 
+.imageatas {
+  height: 350px;
+  background-image: url(../latihan3/img/patuh.jpeg);
+  background-size: cover;
+  background-position: 0 -10px;
+  border-bottom: 5px solid black;
+  border-top: 5px solid black;
+}
+
 .imagebawah {
   height: 300px;
   background-image: url(../latihan3/img/image.png.jpg);
