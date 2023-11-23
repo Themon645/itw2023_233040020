@@ -1,7 +1,7 @@
 /*font*/
 @font-face {
   font-family: "Albalumo";
-  src: url(../galeri/fonts/Agbalumo-Regular.ttf) format("truetype");
+  src: url(../fonts/Agbalumo-Regular.ttf) format("truetype");
 }
 
 /* style body */
@@ -121,7 +121,7 @@ h1 {
   .next, .prev {
     width: 57px;
     height: 43px;
-    background-image: url(../galeri/img/kanan1.png);
+    background-image: url(../img/kanan1.png);
     position: absolute;
     text-indent: -9999px;
     top: 45%;
@@ -130,7 +130,7 @@ h1 {
   }
 
   .prev {
-    background-image: url(../galeri/img/kiri1.png);
+    background-image: url(..//img/kiri1.png);
     margin-left: -100px;
   }
 
